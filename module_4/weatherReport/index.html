@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Weather Report</title>
+    <style>
+        .box {
+            width: 600px;
+            padding: 120px;
+            /* Adds space inside the box */
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Weather Report</h1>
+
+    <form id="weatherForm">
+        <label for="city">Enter City:</label>
+        <input type="text" id="city" name="city">
+        <button type="submit">Get Weather</button>
+    </form>
+    <div class="box">
+    </div>
+    <h1>Weather Report by latitude and longitude</h1>
+    <form id="weatherForm2">
+        <input type="text" id="latitude" placeholder="latitude">
+        <input type="text" id="longitude" placeholder="longitude">
+        <button id="submit">Get Weather</button>
+    </form>
+
+    <div id="weatherInfo"></div>
+    <script src="./weather_report.js"></script>
+</body>
+
+</html>

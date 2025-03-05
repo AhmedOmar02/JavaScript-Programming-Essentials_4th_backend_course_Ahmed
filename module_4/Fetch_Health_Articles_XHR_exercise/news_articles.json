@@ -1,0 +1,39 @@
+{
+    "articles": [
+        {
+            "title": "Global Markets Rally Amid Economic Recovery",
+            "description": "Stock markets worldwide surged as economic recovery gains momentum.",
+            "category": "Business",
+            "published_date": "2025-03-05",
+            "content": "Stock markets experienced significant gains today as investors reacted positively to economic growth data..."
+        },
+        {
+            "title": "Breakthrough in Renewable Energy Technology",
+            "description": "Scientists have developed a new solar panel with record efficiency.",
+            "category": "Science",
+            "published_date": "2025-03-05",
+            "content": "A team of researchers announced the development of a new type of solar panel that improves energy conversion..."
+        },
+        {
+            "title": "Local Elections See Record Turnout",
+            "description": "Voter participation in the recent local elections reached an all-time high.",
+            "category": "Politics",
+            "published_date": "2025-03-05",
+            "content": "The latest elections saw an unprecedented number of voters as citizens showed increased interest in local governance..."
+        },
+        {
+            "title": "Champions League Quarterfinals Set",
+            "description": "Top European football clubs will face off in the upcoming quarterfinals.",
+            "category": "Sports",
+            "published_date": "2025-03-05",
+            "content": "The UEFA Champions League quarterfinal draw has been announced, featuring exciting matchups between top clubs..."
+        },
+        {
+            "title": "New Smartphone Model Announced by Tech Giant",
+            "description": "The latest smartphone features advanced AI capabilities and improved battery life.",
+            "category": "Technology",
+            "published_date": "2025-03-05",
+            "content": "A major technology company unveiled its newest smartphone, boasting improved AI features and a long-lasting battery..."
+        }
+    ]
+}
